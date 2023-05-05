@@ -12,26 +12,27 @@ Proje 3
 1.adım-Root'u 4 olarak belirle.
 
 2.adım-Root'un soluna 4'ten küçük sayıları dallandır.
-                     4
-                    /     
-                   1       
-                  /  \    
-                 0    3  
-                     /    
-                    2      
+ a                    4
+ b                   /     
+ c                  1       
+ d                 /  \    
+ e                0    3  
+ f                    /    
+ g                   2     
+
 3.adım-Root'un sağına 4'ten büyük sayıları dallandır.
-                       4
-                         \
-                          7
-                         / \
-                        5   8
-                         \ / \
-                          6   9
+ a                      4
+ b                       \
+ c                        7
+ d                       / \
+ e                      5   8
+ f                       \ / \
+ g                        6   9
 4.adım-Her iki durumu birleştir.
-                       4
-                    /     \
-                   1       7
-                  /  \    / \
-                 0    3  5   8
-                     /    \ / \
-                    2      6   9
+ a                      4
+ b                   /     \
+ c                  1       7
+ d                 /  \    / \
+ e                0    3  5   8
+ f                    /    \ / \
+ g                   2      6   9
