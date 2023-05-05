@@ -12,7 +12,7 @@ Proje 3
 1.adım-Root'u 4 olarak belirle.
 
 2.adım-Root'un soluna 4'ten küçük sayıları dallandır.
-                       4
+                     4
                     /     
                    1       
                   /  \    
@@ -27,7 +27,7 @@ Proje 3
                         5   8
                          \ / \
                           6   9
-4.adım-Her iki durumu birleştir
+4.adım-Her iki durumu birleştir.
                        4
                     /     \
                    1       7
